@@ -1,0 +1,9 @@
+Flask==2.3.3
+flask-cors==4.0.0
+requests==2.31.0
+
+# Bibliotecas opcionais para redes sociais (instalar conforme necessário)
+# instagrapi==2.0.0
+# yt-dlp==2023.10.13
+# tweepy==4.14.0
+# TikTok-Api==0.0.2
